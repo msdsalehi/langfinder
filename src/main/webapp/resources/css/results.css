@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+input{
+    font-size: 14pt;
+}
+.singleResultLabel{
+    color: #5d5d5d; 
+    font-size: 11pt; 
+    font-weight: bold;
+}
+.singleResultValue{
+    color: #909090; 
+    font-size: 11pt;
+}
+.gray{
+    color: #adadad; 
+    font-size: 9pt;
+    font-style: italic;
+}
+.singleResultDiv{
+    min-height: 60px; margin-bottom: 20px;
+}
+.singleResultName{
+    color: #0011ff; 
+    font-size: 14pt; 
+    font-weight: bold;
+}
